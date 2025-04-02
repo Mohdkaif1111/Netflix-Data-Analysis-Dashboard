@@ -1,3 +1,3 @@
-#Netflix Data Analysis Dashboard(Interactive Dashboard Creation Using Power BI)
+# Netflix Data Analysis Dashboard(Interactive Dashboard Creation Using Power BI)
 ## Project Objective
 The primary objective of this project is to build an interactive data analysis dashboard that provides meaningful insights into the Netflix content library. By leveraging various data visualization techniques, the dashboard aims to explore key trends in Netflix’s offerings, including genre distribution, content release patterns, and ratings. The goal is to enable users to easily analyze and filter Netflix's vast catalog, uncovering valuable insights about the platform’s evolution, content diversity, and global reach. This project also aims to demonstrate the power of Python, data visualization, and interactive dashboards for analyzing real-world datasets.
