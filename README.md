@@ -13,3 +13,5 @@ Visualization: Import the cleaned data into Power BI for advanced visualizations
 Dashboard Creation: Build an interactive Power BI dashboard for exploring key metrics and trends in the data.
 
 Analysis: Interpret visualizations to uncover patterns, trends, and insights from Netflix's content library.
+## Dashboard
+https://github.com/Mohdkaif1111/Netflix-Data-Analysis-Dashboard/blob/main/Screenshot%20(77).png
